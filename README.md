@@ -8,11 +8,11 @@ This project is a responsive website built using HTML and CSS.
 
 
 # What I learned from this Project
-This project gave me good learning experience about how html and css works.
-I learned how to use HTML and CSS to create a beutiful website.
-I learned about the ways of positioning elements in the HTML and CSS.
-I learned how to design websites that adapt seamlessly to different screen sizes and devices, ensuring a consistent user experience.
-I explored the use of Flexbox for creating flexible and responsive layouts, enabling me to better control the positioning of elements on the page.
+-- This project gave me good learning experience about how html and css works.
+-- I learned how to use HTML and CSS to create a beutiful website.
+-- I learned about the ways of positioning elements in the HTML and CSS.
+-- I learned how to design websites that adapt seamlessly to different screen sizes and devices, ensuring a consistent user experience.
+-- I explored the use of Flexbox for creating flexible and responsive layouts, enabling me to better control the positioning of elements on the page.
 
 # Live Project
 [https://assignment-1-blue-nine.vercel.app/](https://html-css-project-9-phi.vercel.app/)
