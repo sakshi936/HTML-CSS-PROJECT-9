@@ -18,4 +18,4 @@ This project is a responsive website built using HTML and CSS.
 [https://assignment-1-blue-nine.vercel.app/](https://html-css-project-9-phi.vercel.app/)
 
 ### Time taken to finish this project
-5 hour to complete it.
+- 5 hour to complete it.
